@@ -6,5 +6,8 @@ package gittest;
  *
  */
 public class hello {
+	  public static int toDouble(int num) {
+		    return num * 2;
+	}
 
 }
